@@ -23,12 +23,12 @@ DATABASE_URL =
 DEBUG =
   process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBUG)
 
-module.exports = {
+module.exports = {254723536629
   VERSION: "v1.2.8",
-  SESSION:
+  SESSION:XPLOADER-BOT:~e6BExTpa#zOHJEFhq1obDJ9qc_fhYiOzBWxCgA_QsafQ2zU1bpgQ
     process.env.ASENA_SESSION === undefined ? "" : process.env.ASENA_SESSION,
   EXT: process.env.EXT === undefined ? undefined : process.env.EXT,
-  LANG:
+  LANG: English 
     process.env.LANGUAGE === undefined
       ? "EN"
       : process.env.LANGUAGE.toUpperCase(),
@@ -95,7 +95,7 @@ module.exports = {
     process.env.BRAINSHOP === undefined
       ? "159501,6pq8dPiYt7PdqHz3"
       : process.env.BRAINSHOP,
-  DIS_BOT:
+  DIS_BOT:254723536629
     process.env.DISABLE_BOT === undefined ? "null" : process.env.DISABLE_BOT,
   FIND_API_KEY:
     process.env.FIND_API_KEY === undefined
